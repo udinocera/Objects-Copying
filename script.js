@@ -12,4 +12,6 @@ const person1 = {
   
   console.log(person1);
   console.log(person2);
+
+  // perchè entrambi puntano allo stesso oggetto quindi le modifiche di person 2 modificano anche person1
   
